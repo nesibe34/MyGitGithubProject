@@ -14,5 +14,7 @@ public class AtmApp {
         //nsb3
         System.out.println("nesibe branchi bir adım önde.");
 
+        System.out.println("bazı değişikler yaptım, ancak commitlemedim.");
+
     }
 }
