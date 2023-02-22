@@ -11,5 +11,8 @@ public class AtmApp {
         //master
         System.out.println("Master branchinde yeni öz var");
 
+        //nsb3
+        System.out.println("nesibe branchi bir adım önde.");
+
     }
 }
